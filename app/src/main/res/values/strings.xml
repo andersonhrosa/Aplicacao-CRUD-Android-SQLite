@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Registro de Jogadores</string>
+    <string name="create">Inserir</string>
+    <string name="update">Alterar</string>
+    <string name="delete">Excluir</string>
+    <string name="read">Consultar</string>
+    <string name="readall">Consultar Todos</string>
+
+    <string name="form_title">Cadastro</string>
+    <string name="cod">Código</string>
+    <string name="name">Nome</string>
+    <string name="address">Endereço</string>
+    <string name="phone">Telefone</string>
+
+    <string name="prox">Botão Próximo</string>
+    <string name="ant">Botão Anterior</string>
+    <string name="first">Botão Primeiro</string>
+    <string name="last">Botão Último</string>
+
+    <string name="codEt">insira o código</string>
+    <string name="nameEt">insira o nome</string>
+    <string name="addressEt">insira a rua</string>
+    <string name="phoneEt">insira o número</string>
+
+    <string name="consulta">Todos os Jogadores</string>
+
+</resources>

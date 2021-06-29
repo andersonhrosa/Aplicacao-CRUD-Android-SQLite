@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.formulario.MainActivity">
+    <item
+        android:id="@+id/create"
+        android:orderInCategory="1"
+        android:title="@string/create"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/update"
+        android:orderInCategory="2"
+        android:title="@string/update"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="3"
+        android:title="@string/delete"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/read"
+        android:orderInCategory="4"
+        android:title="@string/read"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/readall"
+        android:orderInCategory="5"
+        android:title="@string/readall"
+        app:showAsAction="never" />
+</menu>
